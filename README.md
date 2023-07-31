@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-I'm Cedric Verstraeten, located in Belgium with my family, Developer Advocate at [Microsoft](https://github.com/microsoft) and Founder of [Kerberos.io](https://github.com/kerberos-io). I'm in love with technology and passionated to evanglise it [to code for a better world](https://www.youtube.com/@code-for).
+I'm Cedric Verstraeten, located in Belgium with my family, Developer Advocate at [Microsoft](https://github.com/microsoft) and Founder of [Kerberos.io](https://github.com/kerberos-io). I'm in love with technology and passionated to evanglise [to code for a better world](https://www.youtube.com/@code-for).
 
 [![GitHub Badge](https://img.shields.io/github/followers/cedricve?style=social)](https://github.com/cedricve)
 [![Twitter Badge](https://img.shields.io/twitter/follow/cedricverst?style=social)](https://twitter.com/intent/follow?screen_name=cedricverst "Follow on Twitter")
