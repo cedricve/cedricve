@@ -9,4 +9,4 @@ I'm Cedric Verstraeten, located in Belgium with my family, Developer Advocate at
 [![Linkedin Badge](https://img.shields.io/badge/-cedricverstraeten-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cedricverstraeten/)](https://www.linkedin.com/in/cedricverstraeten/)
 [![Youtube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@code-for)
 
-During my spare time I write code, leverage DevOps principles, learn new technologies and document them at [code for a better world](https://www.youtube.com/@code-for). On this channel [@code-for](https://www.youtube.com/@code-for), I reveal the latest updates and tools so you can leverage them to make this world a better place.
+During my spare time I write code, leverage DevOps principles, learn new technologies and document them at [code for a better world](https://www.youtube.com/@code-for). On this channel [@code-for](https://www.youtube.com/@code-for), I reveal the latest updates and tools so you can make this world a better place.
